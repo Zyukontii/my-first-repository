@@ -1,7 +1,7 @@
 print("Hello")
 
 
-potato = 10
+tomato = 10
 
 
 
